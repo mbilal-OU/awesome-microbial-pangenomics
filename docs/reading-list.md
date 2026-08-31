@@ -62,58 +62,52 @@ A pangenome study should begin with the biological question and sampling design,
 14. Guarracino A, et al. 2022. ODGI: understanding pangenome graphs. *Bioinformatics*. [doi:10.1093/bioinformatics/btac328](https://doi.org/10.1093/bioinformatics/btac328)  
     Efficient graph manipulation and path-aware visualization.
 
-15. Noll N, et al. 2023. PanGraph: scalable bacterial pan-genome graph construction. *PLoS Computational Biology*. [doi:10.1371/journal.pcbi.1011105](https://doi.org/10.1371/journal.pcbi.1011105)  
+15. Noll N, et al. 2023. PanGraph: scalable bacterial pan-genome graph construction. *Microbial Genomics*. [doi:10.1099/mgen.0.001034](https://doi.org/10.1099/mgen.0.001034)  
     Graph construction targeted to bacterial sequence and structural diversity.
 
-16. Liao WW, et al. 2023. A draft human pangenome reference. *Nature*. [doi:10.1038/s41586-023-05896-x](https://doi.org/10.1038/s41586-023-05896-x)  
-    A non-microbial exemplar of modern reference pangenome practice.
-
-17. Computational Pan-Genomics Consortium. 2018. Computational pan-genomics: status, promises and challenges. *Briefings in Bioinformatics*. [doi:10.1093/bib/bbw089](https://doi.org/10.1093/bib/bbw089)  
+16. Computational Pan-Genomics Consortium. 2018. Computational pan-genomics: status, promises and challenges. *Briefings in Bioinformatics*. [doi:10.1093/bib/bbw089](https://doi.org/10.1093/bib/bbw089)  
     Broad computational framework, including graph representations.
 
 ## Data quality, taxonomy, and annotation
 
-18. Jain C, et al. 2018. High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. *Nature Communications*. [doi:10.1038/s41467-018-07641-9](https://doi.org/10.1038/s41467-018-07641-9)  
+17. Jain C, et al. 2018. High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. *Nature Communications*. [doi:10.1038/s41467-018-07641-9](https://doi.org/10.1038/s41467-018-07641-9)  
     FastANI and ANI-based species delimitation.
 
-19. Parks DH, et al. 2020. A complete domain-to-species taxonomy for Bacteria and Archaea. *Nature Biotechnology*. [doi:10.1038/s41587-020-0501-8](https://doi.org/10.1038/s41587-020-0501-8)  
+18. Parks DH, et al. 2020. A complete domain-to-species taxonomy for Bacteria and Archaea. *Nature Biotechnology*. [doi:10.1038/s41587-020-0501-8](https://doi.org/10.1038/s41587-020-0501-8)  
     Genome Taxonomy Database framework.
 
-20. Chklovski A, et al. 2023. CheckM2: a rapid, scalable, and accurate tool for assessing microbial genome quality using machine learning. *Nature Methods*. [doi:10.1038/s41592-023-01870-3](https://doi.org/10.1038/s41592-023-01870-3)  
+19. Chklovski A, et al. 2023. CheckM2: a rapid, scalable, and accurate tool for assessing microbial genome quality using machine learning. *Nature Methods*. [doi:10.1038/s41592-023-01870-3](https://doi.org/10.1038/s41592-023-01870-3)  
     Genome completeness and contamination estimation.
 
-21. Orakov A, et al. 2021. GUNC: detection of chimerism and contamination in prokaryotic genomes. *Genome Biology*. [doi:10.1186/s13059-021-02593-3](https://doi.org/10.1186/s13059-021-02593-3)  
+20. Orakov A, et al. 2021. GUNC: detection of chimerism and contamination in prokaryotic genomes. *Genome Biology*. [doi:10.1186/s13059-021-02593-3](https://doi.org/10.1186/s13059-021-02593-3)  
     Contamination and chimerism detection.
 
-22. Schwengers O, et al. 2021. Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. *Microbial Genomics*. [doi:10.1099/mgen.0.000685](https://doi.org/10.1099/mgen.0.000685)  
+21. Schwengers O, et al. 2021. Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification. *Microbial Genomics*. [doi:10.1099/mgen.0.000685](https://doi.org/10.1099/mgen.0.000685)  
     Standardized annotation designed for comparability.
 
 ## Benchmarking and interpretation
 
-23. Urhan A, et al. 2021. A comparative study of pan-genome methods for microbial genomics. *Microbial Genomics*. [doi:10.1099/mgen.0.000690](https://doi.org/10.1099/mgen.0.000690)  
+22. Urhan A, et al. 2021. A comparative study of pan-genome methods for microbial genomics. *Microbial Genomics*. [doi:10.1099/mgen.0.000690](https://doi.org/10.1099/mgen.0.000690)  
     Comparison of several gene-cluster pangenome methods.
 
-24. Hyun JC, et al. 2022. Comparative pangenomics: analysis of 12 microbial pathogen pangenomes reveals gene conservation and diversity. *Genome Biology*. [doi:10.1186/s13059-021-02529-9](https://doi.org/10.1186/s13059-021-02529-9)  
+23. Hyun JC, et al. 2022. Comparative pangenomics: analysis of 12 microbial pathogen pangenomes reveals conserved global structures of genetic and functional diversity. *BMC Genomics*. [doi:10.1186/s12864-021-08223-8](https://doi.org/10.1186/s12864-021-08223-8)  
     Comparative pangenome methodology across pathogens.
 
-25. Dunne WM, et al. 2021. The pangenome is a useful but imperfect representation of bacterial diversity. *Trends in Microbiology*. [doi:10.1016/j.tim.2021.03.009](https://doi.org/10.1016/j.tim.2021.03.009)  
-    Interpretative cautions and limitations.
-
-26. Rouli L, et al. 2015. The bacterial pangenome as a new tool for analysing bacterial diversity. *New Microbes and New Infections*. [doi:10.1016/j.nmni.2015.06.005](https://doi.org/10.1016/j.nmni.2015.06.005)  
+24. Rouli L, et al. 2015. The bacterial pangenome as a new tool for analysing bacterial diversity. *New Microbes and New Infections*. [doi:10.1016/j.nmni.2015.06.005](https://doi.org/10.1016/j.nmni.2015.06.005)  
     Practical concepts for bacterial pangenome interpretation.
 
 ## Metapangenomics and visualization
 
-27. Delmont TO, et al. 2020. Anvi'o: an advanced analysis and visualization platform for 'omics data. *PeerJ*. [doi:10.7717/peerj.1319](https://doi.org/10.7717/peerj.1319)  
+25. Eren AM, et al. 2015. Anvi'o: an advanced analysis and visualization platform for 'omics data. *PeerJ*. [doi:10.7717/peerj.1319](https://doi.org/10.7717/peerj.1319)  
     Integrated analysis and visualization platform.
 
-28. Hadfield J, et al. 2018. Phandango: an interactive viewer for bacterial population genomics. *Bioinformatics*. [doi:10.1093/bioinformatics/btx610](https://doi.org/10.1093/bioinformatics/btx610)  
+26. Hadfield J, et al. 2018. Phandango: an interactive viewer for bacterial population genomics. *Bioinformatics*. [doi:10.1093/bioinformatics/btx610](https://doi.org/10.1093/bioinformatics/btx610)  
     Tree-aligned visualization of gene presence, metadata, recombination, and associations.
 
-29. Seemann T. 2014. Prokka: rapid prokaryotic genome annotation. *Bioinformatics*. [doi:10.1093/bioinformatics/btu153](https://doi.org/10.1093/bioinformatics/btu153)  
+27. Seemann T. 2014. Prokka: rapid prokaryotic genome annotation. *Bioinformatics*. [doi:10.1093/bioinformatics/btu153](https://doi.org/10.1093/bioinformatics/btu153)  
     Widely used annotation baseline.
 
-30. Arnoux J, et al. 2026. PANORAMA: a robust pangenome-based method for predicting and comparing biological systems across species. *PLoS Computational Biology*. [doi:10.1371/journal.pcbi.1013856](https://doi.org/10.1371/journal.pcbi.1013856)  
+28. Arnoux J, et al. 2026. PANORAMA: a robust pangenome-based method for predicting and comparing biological systems across species. *PLoS Computational Biology*. [doi:10.1371/journal.pcbi.1013856](https://doi.org/10.1371/journal.pcbi.1013856)  
     A recent pangenome-graph application for system prediction and comparison.
 
 ## Suggested reading order
