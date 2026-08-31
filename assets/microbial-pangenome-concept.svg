@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Microbial pangenome concept</title>
+  <desc id="desc">Five microbial genomes share core gene families and contain different accessory gene families, which together form a pangenome.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f8fafc}.panel{fill:#ffffff;stroke:#d7e0ea;stroke-width:2}.h{font:700 34px Arial,sans-serif;fill:#123047}.sub{font:400 19px Arial,sans-serif;fill:#526979}.label{font:600 20px Arial,sans-serif;fill:#173b54}.small{font:400 17px Arial,sans-serif;fill:#526979}.tiny{font:600 15px Arial,sans-serif;fill:#29485d}.gene{stroke:#fff;stroke-width:3}.arrow{stroke:#4f728a;stroke-width:4;fill:none;marker-end:url(#tip)}
+    </style>
+    <marker id="tip" markerWidth="11" markerHeight="11" refX="9" refY="3.5" orient="auto"><path d="M0,0 L0,7 L10,3.5 z" fill="#4f728a"/></marker>
+  </defs>
+  <rect class="bg" width="1600" height="900"/>
+  <text x="80" y="76" class="h">The microbial pangenome</text>
+  <text x="80" y="112" class="sub">Shared and variable gene families across a population</text>
+
+  <rect x="70" y="160" width="690" height="610" rx="22" class="panel"/>
+  <text x="110" y="214" class="label">Sampled genomes</text>
+  <text x="110" y="245" class="small">Each row is a strain. Blocks represent gene families.</text>
+
+  <text x="110" y="314" class="tiny">Genome 1</text>
+  <rect x="270" y="286" width="54" height="38" rx="6" fill="#0f766e" class="gene"/><rect x="327" y="286" width="54" height="38" rx="6" fill="#2563eb" class="gene"/><rect x="384" y="286" width="54" height="38" rx="6" fill="#f59e0b" class="gene"/><rect x="441" y="286" width="54" height="38" rx="6" fill="#7c3aed" class="gene"/><rect x="498" y="286" width="54" height="38" rx="6" fill="#e11d48" class="gene"/><rect x="555" y="286" width="54" height="38" rx="6" fill="#0f766e" class="gene"/>
+  <text x="110" y="394" class="tiny">Genome 2</text>
+  <rect x="270" y="366" width="54" height="38" rx="6" fill="#0f766e" class="gene"/><rect x="327" y="366" width="54" height="38" rx="6" fill="#2563eb" class="gene"/><rect x="384" y="366" width="54" height="38" rx="6" fill="#f59e0b" class="gene"/><rect x="441" y="366" width="54" height="38" rx="6" fill="#059669" class="gene"/><rect x="498" y="366" width="54" height="38" rx="6" fill="#0f766e" class="gene"/><rect x="555" y="366" width="54" height="38" rx="6" fill="#ea580c" class="gene"/>
+  <text x="110" y="474" class="tiny">Genome 3</text>
+  <rect x="270" y="446" width="54" height="38" rx="6" fill="#0f766e" class="gene"/><rect x="327" y="446" width="54" height="38" rx="6" fill="#2563eb" class="gene"/><rect x="384" y="446" width="54" height="38" rx="6" fill="#f59e0b" class="gene"/><rect x="441" y="446" width="54" height="38" rx="6" fill="#7c3aed" class="gene"/><rect x="498" y="446" width="54" height="38" rx="6" fill="#0f766e" class="gene"/>
+  <text x="110" y="554" class="tiny">Genome 4</text>
+  <rect x="270" y="526" width="54" height="38" rx="6" fill="#0f766e" class="gene"/><rect x="327" y="526" width="54" height="38" rx="6" fill="#2563eb" class="gene"/><rect x="384" y="526" width="54" height="38" rx="6" fill="#f59e0b" class="gene"/><rect x="441" y="526" width="54" height="38" rx="6" fill="#e11d48" class="gene"/><rect x="498" y="526" width="54" height="38" rx="6" fill="#0891b2" class="gene"/><rect x="555" y="526" width="54" height="38" rx="6" fill="#0f766e" class="gene"/>
+  <text x="110" y="634" class="tiny">Genome 5</text>
+  <rect x="270" y="606" width="54" height="38" rx="6" fill="#0f766e" class="gene"/><rect x="327" y="606" width="54" height="38" rx="6" fill="#2563eb" class="gene"/><rect x="384" y="606" width="54" height="38" rx="6" fill="#f59e0b" class="gene"/><rect x="441" y="606" width="54" height="38" rx="6" fill="#059669" class="gene"/><rect x="498" y="606" width="54" height="38" rx="6" fill="#7c3aed" class="gene"/><rect x="555" y="606" width="54" height="38" rx="6" fill="#0f766e" class="gene"/>
+
+  <rect x="110" y="690" width="20" height="20" rx="4" fill="#0f766e"/><text x="140" y="706" class="small">Core families: present in every sampled genome</text>
+  <rect x="110" y="728" width="20" height="20" rx="4" fill="#7c3aed"/><text x="140" y="744" class="small">Accessory families: vary among genomes</text>
+
+  <path d="M790 463 C840 463 860 463 905 463" class="arrow"/>
+
+  <rect x="945" y="160" width="585" height="610" rx="22" class="panel"/>
+  <text x="985" y="214" class="label">Pangenome representation</text>
+  <text x="985" y="245" class="small">The union of all observed gene families</text>
+
+  <text x="985" y="316" class="small">Gene-family frequency across genomes</text>
+  <rect x="985" y="344" width="118" height="134" rx="14" fill="#dff5f2"/><text x="1044" y="388" text-anchor="middle" class="label">Core</text><text x="1044" y="419" text-anchor="middle" class="tiny">100%</text><text x="1044" y="448" text-anchor="middle" class="small">shared</text>
+  <rect x="1124" y="344" width="176" height="134" rx="14" fill="#eef0ff"/><text x="1212" y="388" text-anchor="middle" class="label">Shell</text><text x="1212" y="419" text-anchor="middle" class="tiny">intermediate</text><text x="1212" y="448" text-anchor="middle" class="small">frequency</text>
+  <rect x="1321" y="344" width="168" height="134" rx="14" fill="#fff0db"/><text x="1405" y="388" text-anchor="middle" class="label">Cloud</text><text x="1405" y="419" text-anchor="middle" class="tiny">rare</text><text x="1405" y="448" text-anchor="middle" class="small">families</text>
+
+  <path d="M1016 542 H1458" stroke="#d4dee7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1016 542 H1190" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1190 542 H1345" stroke="#7c3aed" stroke-width="12" stroke-linecap="round"/>
+  <path d="M1345 542 H1458" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+  <text x="1016" y="587" class="small">conserved</text><text x="1215" y="587" class="small">variable</text><text x="1392" y="587" class="small">rare</text>
+
+  <text x="985" y="653" class="label">What it captures</text>
+  <text x="985" y="687" class="small">• Gene presence, absence, and copy number</text>
+  <text x="985" y="719" class="small">• Functional diversity and mobile elements</text>
+  <text x="985" y="751" class="small">• Population structure, adaptation, and evolution</text>
+
+  <text x="80" y="845" class="small">Conceptual schematic. Core and accessory categories are operational and depend on sampling, genome quality, annotation, and threshold choice.</text>
+</svg>
