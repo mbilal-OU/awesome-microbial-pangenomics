@@ -10,6 +10,10 @@ This list is built for bacterial and archaeal comparative genomics. It distingui
 
 > **Start here:** A robust pangenome is not created by selecting a single program. Control genome quality and taxonomy, apply consistent annotation, state clustering and core thresholds, inspect the graph or gene families, then report the software versions and parameters.
 
+![Original conceptual schematic of a microbial pangenome: sampled genomes share core gene families and differ in accessory families.](assets/microbial-pangenome-concept.svg)
+
+*Figure 1. Original conceptual schematic of a microbial pangenome. The pangenome is the union of gene families observed across genomes; core and accessory categories are threshold-dependent operational definitions. Concept adapted from [Tettelin et al. (2005)](https://doi.org/10.1073/pnas.0506758102), [Medini et al. (2005)](https://doi.org/10.1016/j.gde.2005.09.006), and [Matthews et al. (2024)](https://doi.org/10.1093/bib/bbae588).* 
+
 ## Contents
 
 - [Concepts and standards](#concepts-and-standards)
