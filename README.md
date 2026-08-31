@@ -162,7 +162,7 @@ The most useful starting set is maintained in the [annotated reading list](docs/
 - [Tonkin-Hill et al. 2020](https://doi.org/10.1186/s13059-020-02090-4): Panaroo and artifact-aware pangenome reconstruction.
 - [Zhou et al. 2020](https://doi.org/10.1186/s13059-020-02195-w): PEPPAN.
 - [Gautreau et al. 2020](https://doi.org/10.1371/journal.pcbi.1007732): PPanGGOLiN.
-- [Noll et al. 2023](https://doi.org/10.1371/journal.pcbi.1011105): PanGraph.
+- [Noll et al. 2023](https://doi.org/10.1099/mgen.0.001034): PanGraph.
 - [Matthews et al. 2024](https://doi.org/10.1093/bib/bbae588): terminology and conceptual guidance.
 
 ## Learning resources
