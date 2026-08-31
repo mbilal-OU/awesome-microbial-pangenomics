@@ -12,7 +12,7 @@ This list is built for bacterial and archaeal comparative genomics. It distingui
 
 ![Original conceptual schematic of a microbial pangenome: sampled genomes share core gene families and differ in accessory families.](assets/microbial-pangenome-concept.svg)
 
-*Figure 1. Original conceptual schematic of a microbial pangenome. The pangenome is the union of gene families observed across genomes; core and accessory categories are threshold-dependent operational definitions. Concept adapted from [Tettelin et al. (2005)](https://doi.org/10.1073/pnas.0506758102), [Medini et al. (2005)](https://doi.org/10.1016/j.gde.2005.09.006), and [Matthews et al. (2024)](https://doi.org/10.1093/bib/bbae588).* 
+*Figure 1. Original conceptual schematic of a microbial pangenome. The pangenome is the union of observed gene families. Core, shell, cloud, and unique families are frequency-based operational categories; unique genes occur in one sampled genome and are generally a cloud subset. Open and closed descriptions summarize whether the gene-accumulation curve continues to grow or approaches saturation under the sampling design. Concept adapted from [Tettelin et al. (2005)](https://doi.org/10.1073/pnas.0506758102), [Medini et al. (2005)](https://doi.org/10.1016/j.gde.2005.09.006), [Tettelin et al. (2008)](https://doi.org/10.1016/j.cub.2008.01.071), and [Matthews et al. (2024)](https://doi.org/10.1093/bib/bbae588).* 
 
 ## Contents
 
