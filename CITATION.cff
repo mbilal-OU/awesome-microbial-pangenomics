@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this curated resource, please cite the repository and the underlying primary literature."
+title: "Awesome Microbial Pangenomics"
+type: dataset
+authors:
+  - family-names: Bilal
+    given-names: Muhammad
+repository-code: "https://github.com/mbilal-OU/awesome-microbial-pangenomics"
+license: MIT
+date-released: 2026-08-31
