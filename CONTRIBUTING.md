@@ -17,8 +17,9 @@ A proposed item should:
 1. Add one item per line or table row.
 2. Link to the official repository, documentation, or stable project page.
 3. Link to the primary paper in the reading list when one exists.
-4. Explain why the resource belongs here in the pull-request description.
-5. Do not add paywalled commercial services, unmaintained forks, or generic tools unless they have a specific and important pangenomics role.
+4. Verify that every new or changed URL resolves before submitting; prefer the project's canonical HTTPS URL when available.
+5. Explain why the resource belongs here in the pull-request description.
+6. Do not add paywalled commercial services, unmaintained forks, or generic tools unless they have a specific and important pangenomics role.
 
 ## Corrections
 
